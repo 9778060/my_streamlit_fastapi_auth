@@ -29,7 +29,7 @@ Stack: streamlit, FastAPI
 Notes
 =====
 
-1. Main applications is located in auth folder
+1. Main application is located in auth folder
 
 
 Credits
